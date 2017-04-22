@@ -1,6 +1,8 @@
-# Udacity-Deep-Learning-Foundation
+# Udacity-Deep-Learning-Foundation :construction:
 Projects and Classes of the Udacity Deep Learning Nanodegree.  
-  * Classes:  
+  * Classes:
+   * Linear Regression: [](../Classes/siraj-regression)  
+   * 
     
   * Projects:  
   
