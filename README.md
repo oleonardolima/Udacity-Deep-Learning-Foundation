@@ -5,7 +5,7 @@ Projects and Classes of the Udacity Deep Learning Nanodegree.
      * [Siraj Data Preparation](Classes/siraj-data-preparation)  
   * Projects:  
      * [First Neural Network](Projects/first-neural-network)  
-     * [Image Classification](Projects/)  
-     * [TV Scripts Generation](Projects/)
-     * [Face Generation](Projects/)
+     * [Image Classification](Projects/image-classification)  
+     * [TV Scripts Generation](Projects/tv-script-generation)
+     * [Face Generation](Projects/face-generation)
   
