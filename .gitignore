@@ -5,3 +5,5 @@ checkpoint
 *.jpeg
 *.jpg
 *.db
+*.floydexpt
+*.floydignore
