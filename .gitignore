@@ -7,3 +7,4 @@ checkpoint
 *.db
 *.floydexpt
 *.floydignore
+Classes/
